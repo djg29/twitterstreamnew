@@ -1,6 +1,8 @@
 # Build output directies
 /target
 **/target
+/project
+**/project
 /build
 */build
 #
