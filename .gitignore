@@ -1,0 +1,15 @@
+# Build output directies
+/target
+**/target
+/build
+*/build
+#
+# # IntelliJ specific files/directories
+
+# IntelliJ specific files/directories
+out
+.idea
+*.ipr
+*.iws
+*.iml
+atlassian-ide-plugin.xml
